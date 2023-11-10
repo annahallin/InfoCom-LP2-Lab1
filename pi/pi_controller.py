@@ -50,4 +50,3 @@ if __name__ == "__main__":
                                     'latitude': d_la
                                     }
                 resp = session.post(SERVER_URL, json=current_location)
-cke
